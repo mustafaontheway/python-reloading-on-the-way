@@ -2,6 +2,8 @@ From 2026 to 2027:
 
 * AI (Deep Learning, Genetic Algorithms, AI Agents, Reinforcement Learning, Fuzzy Logic, Graph Theory)
 
+* FastAPI
+
 * Algo Trade and Backtesting
 
 * Pandas and Numpy
